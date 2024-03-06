@@ -1,4 +1,4 @@
-# Train.py Documentation
+# Train Documentation
 
 ## Introduction
 
